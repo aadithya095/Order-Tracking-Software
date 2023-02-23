@@ -1,0 +1,7 @@
+-i https://pypi.org/simple
+asgiref==3.6.0; python_version >= '3.7'
+django==4.1.7
+django-browser-reload==1.6.0; python_version >= '3.7'
+django-tailwind==3.5.0
+django-widget-tweaks==1.4.12
+sqlparse==0.4.3; python_version >= '3.5'
